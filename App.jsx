@@ -1,5 +1,3 @@
-// FinVerse - Real Website Launch Code Begins
-// Tech: React.js + TailwindCSS + Firebase Auth + Razorpay Setup (initial)
 
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
